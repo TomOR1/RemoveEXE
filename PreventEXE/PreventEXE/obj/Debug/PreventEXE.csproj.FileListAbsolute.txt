@@ -1,0 +1,6 @@
+c:\users\thoma\documents\visual studio 2017\Projects\PreventEXE\PreventEXE\bin\Debug\PreventEXE.dll
+c:\users\thoma\documents\visual studio 2017\Projects\PreventEXE\PreventEXE\bin\Debug\PreventEXE.pdb
+c:\users\thoma\documents\visual studio 2017\Projects\PreventEXE\PreventEXE\obj\Debug\PreventEXE.csprojAssemblyReference.cache
+c:\users\thoma\documents\visual studio 2017\Projects\PreventEXE\PreventEXE\obj\Debug\PreventEXE.csproj.CoreCompileInputs.cache
+c:\users\thoma\documents\visual studio 2017\Projects\PreventEXE\PreventEXE\obj\Debug\PreventEXE.dll
+c:\users\thoma\documents\visual studio 2017\Projects\PreventEXE\PreventEXE\obj\Debug\PreventEXE.pdb
